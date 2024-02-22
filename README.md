@@ -3,6 +3,7 @@
 as if I were describing them to myself. Forgive me if some of what I say is redundant, but I prefer being overly clear if it means more accessibility to non-nerds like myself.*
 
 This program is a Python script to allow the user to decide which biomes they want from Terralith and Minecraft. It runs in the command line, because I do not know how to create an EXE. Sorry, smelly nerds.
+There is no edge protection. There is no going backwards. I don't know what happens if you don't select anything and I don't care/know how to program it so you can't. FAFO.
 
 Anyways, the setup is fairly simple. Download the Terralith mod (a jar file), and extract its contents using something like 7Zip or BreeZip. Navigate inside the unzipped Terralith folder through the following path
 Terralith (folder) > data > minecraft > dimension   
