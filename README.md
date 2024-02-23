@@ -2,8 +2,13 @@
 *Before I go any further, I should explain that this is my first time creating a repository in GitHub, and have extremely limited coding knowledge. So I will be explaining the instructions
 as if I were describing them to myself. Forgive me if some of what I say is redundant, but I prefer being overly clear if it means more accessibility to non-nerds like myself.*
 
-This program is a Python script to allow the user to decide which biomes they want from Terralith and Minecraft. It runs in the command line, because I do not know how to create an EXE. Sorry, smelly nerds.
+This program is a Python script to allow the user to decide which biomes they want from Terralith and Minecraft. It **runs in the command line**, because I do not know how to create an EXE. Sorry, smelly nerds.
 There is no edge protection. There is no going backwards. I don't know what happens if you don't select anything and I don't care/know how to program it so you can't. FAFO.
+
+I personally used Python 3.11 for this but I don't know why it wouldn't work on most other versions.
+At time of making I used Terralith v4.2.11, however I plan to continue adding biomes for the next few updates at least. If it's broken, add me on discord @sseptic and I'll get on it
+I used Minecraft 1.20.2, however any 1.20 version would work. Same as above, I'll continue updating for awhile
+**For the script, you need to install the Inquierer Python library, so in your terminal, run the following `pip install inquirer`**
 
 Anyways, the setup is fairly simple. Download the Terralith mod (a jar file), and extract its contents using something like 7Zip or BreeZip. Navigate inside the unzipped Terralith folder through the following path
 Terralith (folder) > data > minecraft > dimension   
