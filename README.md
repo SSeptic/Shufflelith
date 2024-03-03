@@ -9,6 +9,7 @@ I personally used Python 3.11 for this but I don't know why it wouldn't work on 
 At time of making I used Terralith v4.2.11, however I plan to continue adding biomes for the next few updates at least. If it's broken, add me on discord @sseptic and I'll get on it
 I used Minecraft 1.20.2, however any 1.20 version would work. Same as above, I'll continue updating for awhile
 **For the script, you need to install the Inquierer Python library, so in your terminal, run the following `pip install inquirer`**
+For this script I used Inquirer 3.2.4
 
 Anyways, the setup is fairly simple. Download the Terralith mod (a jar file), and extract its contents using something like 7Zip or BreeZip. Navigate inside the unzipped Terralith folder through the following path
 Terralith (folder) > data > minecraft > dimension   
